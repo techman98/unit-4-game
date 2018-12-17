@@ -1,0 +1,35 @@
+body {
+    background-color: gray;
+    
+}
+
+#instruction {
+    width: 492px;
+    word-wrap: break-word;
+    background-color: darkgray;
+    text-align: center;
+    margin: auto auto;
+}
+
+.crystal {
+    background-color: gray;
+    
+}
+
+.gameInfo {
+    background-color: darkgray;
+    width: 492px;
+    text-align: center;
+    margin: auto auto;
+}
+
+#imgContainer {
+    background-color: lightgray;
+    margin: auto auto;
+    padding: 5px;
+    width: 492px;
+}
+
+#endGameStatement {
+    margin: auto auto;
+}
